@@ -1,0 +1,3 @@
+La ruta POST /reporte recibe información enviada por el usuario y responde confirmando que el reporte fue recibido.
+
+Esta ruta podría servir en una aplicación comunitaria para enviar reportes, alertas o mensajes sobre problemas en la comunidad, como daños en vías, emergencias o situaciones de seguridad.
