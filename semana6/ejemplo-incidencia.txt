@@ -1,0 +1,4 @@
+{
+  "tipo": "Actividad ambiental",
+  "descripcion": "Se identificó acumulación de residuos sólidos en una zona verde del barrio."
+}
