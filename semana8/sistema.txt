@@ -1,0 +1,8 @@
+Comando uname -a:
+Muestra información del sistema operativo Linux, la versión del kernel y la arquitectura del equipo.
+
+Comando whoami:
+Muestra el nombre del usuario que está utilizando el sistema.
+
+Importancia:
+Conocer esta información permite identificar el entorno donde funciona un servidor, verificar configuraciones y facilitar tareas de administración y seguridad.
